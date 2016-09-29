@@ -1,3 +1,4 @@
 test
 test2
 issue_3
+issue_6
